@@ -16,7 +16,6 @@
   "author": "ZefianAlfian",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.4.1",
     "axios": "^0.21.1",
     "buffer": "^6.0.3",
     "chalk": "^4.1.0",
