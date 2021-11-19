@@ -1,5 +1,5 @@
-# modules directory
-node_modules/
+# modules director
+
 
 # lock files
 *-lock.json
